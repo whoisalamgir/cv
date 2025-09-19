@@ -1,35 +1,33 @@
 # Curriculum Vitae
-# CV – Alamgir Hossain
 
-A clean, responsive web-based Curriculum Vitae built with HTML and CSS.  
+**CV – Web-Based Resume Project**
+
+A simple, responsive Curriculum Vitae built using HTML and CSS.  
 Hosted via GitHub Pages: [Live Preview](https://whoisalamgir.github.io/cv/)
 
-## 🧑 Personal Information
-- **Name:** Alamgir Hossain  
-- **Address:** Khirtola, Shaliagari, Raiganj, 6720 Sirajganj, Rajshahi, Bangladesh  
-- **Nationality:** Bangladeshi  
-- **Sex:** Male  
+## 📄 Project Overview
+This project showcases a personal resume in a web-based format. It is designed with semantic HTML structure and modular CSS styling to ensure clarity, responsiveness, and ease of customization.
 
-## 💼 Work Experience
-**TechNova Solutions – Gazipur, Bangladesh**  
-*October 2023 – Present*  
-- Designed and maintained responsive websites for local businesses, NGOs, and educational institutions.  
-- Implemented modular HTML/CSS structures aligned with SEO best practices.  
-- Led UI/UX improvements that increased user engagement by 35%.  
-- Created reusable design components and style guides for scalable development.  
-- Provided training on design tools, version control, and workflow automation.
+## 🧱 Structure & Layout
+- `index.html`: Contains the main layout of the CV, including sections for introduction, experience, education, and contact.
+- `style.css`: Defines the visual styling, typography, spacing, and responsive behavior across devices.
+- `profile.jpg`: A placeholder image used to represent the profile visually.
+- `README.md`: Documentation for project overview and structure.
 
-## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- Git & GitHub  
-- GitHub Pages
-
-## 📁 Repository Structure
-├── index.html ├── style.css ├── profile.jpg └── README.md
+## 🎨 Design Principles
+- Clean and minimal layout for professional presentation
+- Responsive design optimized for desktop and mobile viewing
+- Modular CSS for maintainability and scalability
+- No external libraries or frameworks—pure HTML/CSS for full control
 
 ## 🚀 Deployment
-This CV is deployed using GitHub Pages.  
-To view or clone the repository:
+This CV is deployed using GitHub Pages and can be viewed publicly.  
+To clone or fork the repository:
 ```bash
 git clone https://github.com/whoisalamgir/cv.git
+📁 File Tree
+cv/
+├── index.html
+├── style.css
+├── profile.jpg
+└── README.md
